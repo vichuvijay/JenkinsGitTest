@@ -6,6 +6,7 @@ public class MultiplePrintWhile {
         System.out.println("4 print");
         System.out.println("5 print 1");
         System.out.println("git chumma   to jenkins");
+        System.out.println("Vichu unnnal mudiyum da");
 
     }
 }
