@@ -4,7 +4,7 @@ public class MultiplePrintWhile {
         System.out.println("2 print");
         System.out.println("3 print");
         System.out.println("4 print");
-        System.out.println("5 print");
+        System.out.println("5 print 1");
         System.out.println("git to jenkins");
 
     }
